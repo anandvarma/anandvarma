@@ -1,6 +1,4 @@
-### Hi there, I'm Anand!  👋
-- ⚙️ Engineer @Nutanix by day
-- ✨ Github stalker by night
+### Hi there!  👋
 
 <!--
 **anandvarma/anandvarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
